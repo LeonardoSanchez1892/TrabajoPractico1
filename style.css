@@ -4,5 +4,11 @@ body {
     height: 100dvh;
     margin: 0;
     padding: 0;
+}
 
+aside{
+    background-color: rgba(5, 1, 1, 0.986);
+    width: 20%;
+    height: 100%;
+    font-family: sans-serif;
 }
