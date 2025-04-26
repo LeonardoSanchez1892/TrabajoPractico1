@@ -80,3 +80,13 @@ p {
     text-align: center;
     margin: 10px;
 }
+
+.imagen{
+    width: 350px;
+    height: 250px;
+}
+
+table tr td {
+    padding: 7px;
+
+}
